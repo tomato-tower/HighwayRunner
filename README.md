@@ -4,7 +4,7 @@
 
 # 動作環境
 * 必須  
-    Windows PC(Windows10で動作確認済み)
+    Windows PC(Windows10で動作確認済み)  
     解像度1280x720以上のモニター  
     XInputに対応したコントローラー
     (Xbox one, PS4コントローラーで動作確認済み)
